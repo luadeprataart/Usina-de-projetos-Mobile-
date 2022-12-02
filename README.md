@@ -9,9 +9,10 @@
 
 ### INSTALAÇÃO
 >  * Para iniciar o projeto corretamente siga os passos abaixo:
->  * 1 - Clone ou faça o download do código.
->  * 2 - Digite o comando **npm install** (caso o comando falhe tente **npm install --legacy-peer-deps**, se ainda não funcionar, tente: **npm install --force**).
->  * 3 - Para iniciar o projeto, basta rodar **npx expo start**.
+>  * 1 - Clone ou faça o download do código: **git clone git@github.com:luadeprataart/Usina_de_projetos_Mobile.git**.
+>  * 2 - Troque para a branch **front** com o comando **git checkout front**.
+>  * 3 - Digite o comando **npm install** (caso o comando falhe tente **npm install --legacy-peer-deps**, se ainda não funcionar, tente: **npm install --force**).
+>  * 4 - Para iniciar o projeto, basta rodar **npx expo start**.
 >  * Caso tenha problemas na inicialização do App entre em contato com algum dos integrantes do grupo abaixo.
 
 
