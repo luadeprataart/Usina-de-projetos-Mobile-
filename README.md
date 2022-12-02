@@ -14,6 +14,12 @@
 >  * 3 - Para iniciar o projeto, basta rodar **npx expo start**.
 >  * Caso tenha problemas na inicialização do App entre em contato com algum dos integrantes do grupo abaixo.
 
+
+### CADASTRO DE USUÁRIOS
+>  * Para criação de conta (Case Sensitive):
+>  * Código necessário para criar Admin: **ADMIN-COD**
+>  * Código necessário para criar Síndico: **SINDICO-COD**
+
 # **IDENTIFICAÇÃO DO GRUPO**
 
 |   RA   |                 NOME                 |         e-mail           |
