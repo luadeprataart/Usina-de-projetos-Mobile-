@@ -5,7 +5,14 @@
 
 ### ATENÇÃO!
 >  * Para acesso ao código do **FRONTEND** escolher a branch **front**.
->  * Para acesso ao código do **BACKEND** escolher a branch **back**.
+>  * Para acesso ao código do **BACKEND** escolher a branch **main**.
+
+### INSTALAÇÃO
+>  * Para iniciar o projeto corretamente siga os passos abaixo:
+>  * 1 - Clone ou faça o download do código.
+>  * 2 - Digite o comando **npm install** (caso o comando falhe tente **npm install --legacy-peer-deps**, se ainda não funcionar, tente: **npm install --force**).
+>  * 3 - Para iniciar o projeto, basta rodar **npx expo start**.
+>  * Caso tenha problemas na inicialização do App entre em contato com algum dos integrantes do grupo abaixo.
 
 # **IDENTIFICAÇÃO DO GRUPO**
 
