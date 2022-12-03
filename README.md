@@ -24,6 +24,7 @@
 ### FUNCIONALIDADES
 >  * Cadastro de síndicos e administradores.
 >  * Login para síndicos e administradores.
+>  * Validações no signup e signin.
 >  * Exclusão de usuários já cadastrados.
 >  * Logout para usuários logados.
 >  * Screen de Perfil do usuário, com informações inerentes ao usuário logado.
