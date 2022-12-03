@@ -21,7 +21,22 @@
 >  * Código necessário para criar Admin: **ADMIN-COD**
 >  * Código necessário para criar Síndico: **SINDICO-COD**
 
+### FUNCIONALIDADES
+>  * Cadastro de síndicos e administradores.
+>  * Login para síndicos e administradores.
+>  * Exclusão de usuários já cadastrados.
+>  * Logout para usuários logados.
+>  * Screen de Perfil do usuário, com informações inerentes ao usuário logado.
+>  * Screen de Sobre o aplicativo, com informações inerentes ao aplicativo e integrantes do grupo.
+>  * Screen de Gerenciamento de condomínios.
+>  * Inserção, remoção de síndicos em condomínios.
+>  * Renderização condicional no bottom Tab (bottom tab altera-se caso seja nível síndico ou administrador).
+>  * Visualização de síndicos em condomínios específicos.
+>  * Visualização de dados sobre placas solares em formato de gráficos e lista.
+>  * Filtro das informações de placas solares por data ou condomínio específico.
+
 # **IDENTIFICAÇÃO DO GRUPO**
+**PARA DISCIPLINAS DE MOBILE E UPX**
 
 |   RA   |                 NOME                 |         e-mail           |
 |--------|:------------------------------------:|-------------------------:|
